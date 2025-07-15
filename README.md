@@ -118,7 +118,7 @@ Web
 
 <section id="contact">
     <h2>Contactez-nous</h2>
-    <p>Adresse : 123 Rue de la Pasta, Ville</p>
+    <p>Adresse : 123 Rue dela gloire' Ville</p>
     <p>Téléphone : 01 23 45 67 89</p>
     <p>Email : contact@deliceitalien.fr</p>
     <p>Horaires : 12h - 22h, tous les jours</p>
